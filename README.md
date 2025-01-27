@@ -30,4 +30,4 @@
 ## 🚀 نحوه استفاده
 1. این ریپازیتوری را کلون کنید:  
    ```bash
-   git clone https://github.com/نام-کاربری-شما/php-calculator.git
+   git clone https://github.com/Nz-B/calculator.git
