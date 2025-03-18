@@ -67,7 +67,7 @@
 </head>
 <body dir="rtl">
   <table name="calculator" class="calculator">
-    <form action="index (2)_register.php" method="POST">
+    <form action="index_register.php" method="POST">
       <tr>
         <td colspan="2">
           <label for="firstNum">عدد اول:</label>
